@@ -1,0 +1,1 @@
+Inspired by <a href="https://www.youtube.com/watch?v=yYA_jPqjV1g&t=554s">this video</a> of a technical interview.
